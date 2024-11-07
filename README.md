@@ -1,6 +1,17 @@
 ## Dental-X-RAY-Image-Detection-and-Instance-Segmentation
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg) ![Detectron2](https://img.shields.io/badge/Detectron2-v0.6-blue.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-v1.8.1-blue.svg) ![OpenCV](https://img.shields.io/badge/OpenCV-v4.5.2-blue.svg) ![NumPy](https://img.shields.io/badge/NumPy-v1.19.5-blue.svg)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Dental-X-RAY-Image-Detection-and-Instance-Segmentation?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
+
 
 _**This repository leverages Detectron2, a state-of-the-art object detection and segmentation framework built on PyTorch. Detectron2 provides a flexible and efficient implementation of various algorithms, simplifying tasks like object detection, instance segmentation, and keypoint detection.**_
 
@@ -110,6 +121,12 @@ To set up the project locally, follow these steps:
    ```
 
 ### Tech Stack
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Detectron2](https://img.shields.io/badge/Detectron2-v0.6.1-brightgreen)
+![PyTorch](https://img.shields.io/badge/PyTorch-v1.9.0-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-v4.5.1-blue)
+![NumPy](https://img.shields.io/badge/NumPy-v1.20.2-orange)
+![COCO JSON Format](https://img.shields.io/badge/COCO%20JSON%20Format-v2.0.0-yellow)
 
 - **Python**: The primary programming language for developing the model and handling data manipulation.
 - **Detectron2**: A powerful object detection and segmentation framework that simplifies the process of building and training models.
